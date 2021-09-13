@@ -1,0 +1,2 @@
+# SemanaTecProgra-PINTAR
+SemanaTecProgra PINTAR
